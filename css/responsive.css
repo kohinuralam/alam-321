@@ -1,0 +1,437 @@
+/*==for-lg-screen==*/
+
+@media screen and (min-width: 991px) and (max-width: 1199px) {
+
+/* header-area-start */
+
+.nav-bar ul li a {
+    font-size: 15.24px;
+    padding: 15px 10px;
+      
+}
+
+.social-icon ul {
+    margin: 10px 0 0 0;
+}
+
+.social-icon ul li a  {
+    padding: 0 8px;
+  
+}
+
+.social-icon ul li a i {
+    width: 25px;
+    height: 35px;
+    line-height: 35px; 
+}
+
+.search {
+    margin: 20px 0 15px 0;
+}
+
+.logo-images {
+    top: -52px;
+    right: -20px;
+    left: -20px; 
+}
+
+/* header-area-end */
+
+/*==education-area-start==*/
+
+.up-coming-item span {
+    width: 60px; 
+}
+
+.up-coming-item label {
+    width: 40px;
+}
+
+/*==education-area-start==*/
+
+/* portfolio-area-start */
+
+.portfolio-content p br {
+  display: none;
+}
+
+/* portfolio-area-end */
+
+/* our-causes-start*/
+
+.our-causes-title p br {
+  display: none;
+}
+
+.causes-3-images-1 {
+    margin: 45px 0 0 0;
+    
+}
+
+.causes-3-images-2 {
+    margin: 69px 0 0 0;
+    
+}
+
+.causes-3-images-3 {
+    margin: 68px 0 0 0;   
+}
+
+/* our-causes-end*/
+
+/* contact-area-start*/
+
+.contact-title p br {
+  display: none;
+}
+
+/* contact-area-end*/
+
+}
+
+/*
+=============for-lg-screen-end=============
+*/
+
+/*
+============for-tablet-screen-start==========
+*/
+
+@media screen and (min-width: 767px) and (max-width: 991px) {
+
+/* header-area-start */
+
+.nav-bar ul li a {
+    font-size: 13.24px;
+    padding: 15px 9px;
+      
+}
+
+.social-icon ul {
+    margin: 10px 0 0 0;
+}
+
+.social-icon ul li a  {
+    padding: 0 6px;
+  
+}
+
+.social-icon ul li a i {
+    width: 22px;
+    height: 30px;
+    line-height: 30px; 
+}
+
+.search {
+    margin: 20px 0 14px 0;
+}
+
+.logo-images {
+    top: -52px;
+    right: -20px;
+    left: -20px; 
+}
+
+/* header-area-end */
+
+/*==hero-area-start==*/
+
+.hero-content h1 {
+    padding: 253px 0 0 0;
+}
+
+/*==hero-area-end==*/
+
+/*==education-area-start==*/
+
+.up-coming-item-left h2 {
+    font-size: 22px;  
+}
+
+/*==education-area-end==*/
+
+/* portfolio-area-start */
+
+.portfolio-content p br {
+  display: none;
+}
+
+/* portfolio-area-end */
+
+/* our-causes-start*/
+
+.our-causes-title p {
+    margin: 19px 0 0 0;
+}
+
+.our-causes-title p br {
+  display: none;
+}
+
+.causes-name-1 p {
+    font-size: 13px;
+   
+}
+
+.causes-3-images-1 {
+    margin: 45px 0 0 0;
+    
+}
+
+.causes-3-images-2 {
+    margin: 90px 0 0 0;
+    
+}
+
+.causes-3-images-3 {
+    margin: 96px 0 0 0;
+    
+}
+
+/* our-causes-end*/
+
+/* contact-area-start*/
+
+.contact-title p br {
+  display: none;
+}
+
+#email {
+  margin: 15px 0 0 0;
+}
+
+/* contact-area-end*/
+  
+}
+
+/*
+==============for-tablet-screen-end==========
+*/
+
+/*
+==============for-mobil-screen-start==========
+*/
+
+@media screen and (max-width: 767px) {
+
+/* header-area-start */
+
+.header-area {
+  padding: 13px 0;
+}
+
+  .nav-bar ul {
+    display: none;
+  }
+
+  .menu-bar i {
+    display: block;
+}
+
+.search {
+  margin: 20px 0 14px 0;
+}
+
+.social-icon ul li a  {
+    padding: 0 6px;
+    display: inline-block;
+}
+
+.social-icon ul li a i {
+    width: 11px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 14px;
+}
+
+.logo-images {
+    top: -52px;
+    right: -15px;
+   
+}
+
+/* header-area-end */
+
+/*==hero-area-start==*/
+
+.hero-area {
+   padding: 0 0 83px 0;
+   
+}
+
+.hero-content h1 {
+    font-size: 80.25px;
+    padding: 253px 0 0 0;
+}
+
+.hero-content h5 {
+    font-size: 18.94px;
+    margin: 35px 0 0 0;
+}
+
+.hero-button a {
+    margin: 30px 0 0 0;
+
+}
+
+.hero-button a span {
+    margin: 0 0 0 5px;
+    display: inline-block;
+}
+
+/*==hero-area-end==*/
+
+/*==education-area-start==*/
+
+.education-area {
+  padding: 0 0 30px 0;
+}
+
+.education-item-wrapper {
+    position: relative;
+    top: -45px;
+}
+
+.up-coming-item-left h2 {
+    font-size: 22px;
+    margin: 5px 0 0 0;
+}
+
+/*==education-area-end==*/
+
+/*==help-area-start==*/
+
+.help-item-left h2 {
+    font-size: 28px;
+    margin: 44px 0 0 0;
+}
+
+.help-item-left h6 {
+    font-size: 13px;
+    
+}
+
+.help-item-left p {
+    margin: 20px 0 0 0;
+
+}
+
+/*==help-area-end==*/
+
+/* portfolio-area-start */
+
+.portfolio-area {
+    padding: 0 0 33px 0;
+}
+
+.portfolio-content h2 {
+    font-size: 29.48px;
+    padding: 47px 0 0 0;
+}
+
+.portfolio-content p {
+    font-size: 13.97px;
+    margin: 20px 0 0 0;
+}
+
+.portfolio-content p br {
+  display: none;
+}
+
+.portfolio-content a {
+    margin: 28px 0 0 0;
+}
+
+
+/* portfolio-area-end */
+
+/* gellary-area-start */
+
+.gellary-area {
+    padding: 0 0 35px 0;
+}
+
+.gellary-button ul li a {
+    font-size: 12.24px;
+    margin: 30px 3px 30px 3px;
+    padding: 4px 13px;
+    
+}
+
+/* gellary-area-start */ 
+
+/* our-causes-start*/
+
+.our-causes-area {
+    padding: 0 0 15px 0;
+}
+
+.our-causes-title p {
+    margin: 19px 0 0 0;
+}
+
+.our-causes-title p br {
+  display: none;
+}
+
+.causes-3-images-1 {
+    margin: 45px 0 0 0;
+    
+}
+
+.causes-3-images-2 {
+    margin: 69px 0 0 0;
+    
+}
+
+.causes-3-images-3 {
+    margin: 68px 0 0 0;
+    
+}
+
+/* our-causes-end*/
+
+/* contact-area-start*/
+
+.contact-area {
+    background: #F3F3F3;
+    padding: 0 0 40px 0;
+}
+
+.contact-title h2 {
+    padding: 40px 0 0 0;
+}
+
+.contact-title p {
+    margin: 25px 0 0 0;
+}
+
+.contact-title p br {
+  display: none;
+}
+
+#email {
+  margin: 15px 0 0 0;
+}
+
+.footer-images-1 {
+    margin: 27px 0 0 0;
+}
+
+/* contact-area-end*/
+
+/* footer-item-area-start*/
+
+#footer-item-2 {
+  margin: 20px 0 0 0;
+}
+
+/* footer-item-area-end*/
+
+}
+
+
+/*
+=======mobil-area-screen=========================
+*/
+         
